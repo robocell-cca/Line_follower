@@ -1,4 +1,4 @@
-# Line_follwer
+# Line follwer
 
 The code is in .ino format which is to be run on microcontroller units like Arduino and NodeMCU, which follows a black line on white surface, or a white line on black background.
 
